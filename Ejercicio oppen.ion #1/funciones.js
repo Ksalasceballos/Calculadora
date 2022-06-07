@@ -108,15 +108,15 @@ function resolver(){
             break;
 
         case "-":
-            res = parseFloat(operandoa) + parseFloat(operandob);
+            res = parseFloat(operandoa) - parseFloat(operandob);
             break;
 
         case "*":
-            res = parseFloat(operandoa) + parseFloat(operandob);
+            res = parseFloat(operandoa) * parseFloat(operandob);
             break;
         
         case "/":
-            res = parseFloat(operandoa) + parseFloat(operandob);
+            res = parseFloat(operandoa) / parseFloat(operandob);
             break;
     }
     resetear();
