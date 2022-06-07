@@ -54,7 +54,7 @@ function init(){
     Cero.onclick = function(e){
         resultado.textContent = resultado.textContent + "0";
     }
-
+    
     Reset.onclick = function(e){
         resetear();
     }
