@@ -21,34 +21,34 @@ function init(){
 
   //Eventos
   uno.onclick = function(e){
-      resultado.textContent = resultado.textContent + "1";
+      resultado.TextContent = resultado.TextContent + "1";
   }
   Dos.onclick = function(e){
-      resultado.textContent = resultado.textContent + "2";
+      resultado.TextContent = resultado.TextContent + "2";
   }
   Tres.onclick = function(e){
-      resultado.textContent = resultado.textContent + "3";
+      resultado.TextContent = resultado.TextContent + "3";
   }
   Cuatro.onclick = function(e){
-      resultado.textContent = resultado.textContent + "4";
+      resultado.TextContent = resultado.TextContent + "4";
   }
   Cinco.onclick = function(e){
-      resultado.textContent = resultado.textContent + "5";
+      resultado.TextContent = resultado.TextContent + "5";
   }
   Seis.onclick = function(e){
-      resultado.textContent = resultado.textContent + "6";
+      resultado.TextContent = resultado.TextContent + "6";
   }
   Siete.onclick = function(e){
-      resultado.textContent = resultado.textContent + "7";
+      resultado.TextContent = resultado.TextContent + "7";
   }
   Ocho.onclick = function(e){
-      resultado.textContent = resultado.textContent + "8";
+      resultado.TextContent = resultado.TextContent + "8";
   }
   Nueve.onclick = function(e){
-      resultado.textContent = resultado.textContent + "9";
+      resultado.TextContent = resultado.TextContent + "9";
   }
   Cero.onclick = function(e){
-      resultado.textContent = resultado.textContent + "0";
+      resultado.TextContent = resultado.TextContent + "0";
   }
 
   Reset.onclick = function(e){
