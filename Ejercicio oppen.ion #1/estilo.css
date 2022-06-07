@@ -10,8 +10,8 @@
 
 .Calculadura td button{
         display:block;
-        width: 60px;
-        height: 60px;
+        width: 55px;
+        height: 55px;
         front-size:25px;
 }
 
@@ -20,7 +20,7 @@
     text-align:center;
     font-size: 40px;
     margin-bottom: 50px;
-    width: 300px;
+    width: 250px;
     height; 100px;
     line-height: 100px;
     background-color: #fff;
