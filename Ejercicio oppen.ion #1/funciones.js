@@ -20,7 +20,7 @@ function init(){
   var Cero = document.getElementById("Cero");
 
   //Eventos
-  uno.onclick = function(e){
+  Uno.onclick = function(e){
       resultado.TextContent = resultado.TextContent + "1";
   }
   Dos.onclick = function(e){
