@@ -1,6 +1,6 @@
 var operandoa;
 var operandob;
-vas operacion;
+var operacion;
 
 function init(){
     //variable
