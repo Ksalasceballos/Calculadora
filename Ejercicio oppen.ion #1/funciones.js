@@ -88,7 +88,7 @@ function init(){
 }
 
 function limpiar(){
-  resultado.textContent = "";
+    resultado.textContent = "";
 
 }
 
