@@ -55,8 +55,5 @@ function init(){
       resetear();
   }
 
-  
-
-
 
 }
