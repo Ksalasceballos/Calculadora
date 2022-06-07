@@ -13,5 +13,19 @@
         width: 60px;
         height: 60px;
         front-size:25px;
+}
+
+#resultado{
+    display:block;
+    text-align:center;
+    font-size: 40px;
+    marging-bottom: 50px;
+    width: 300px;
+    height; 100px;
+    line-height: 100px;
+    background-color: #fff;
+    border-radius: 25px;
+    overflow-y: scroll;
+
 
 }
