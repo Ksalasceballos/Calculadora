@@ -7,3 +7,11 @@
     height:500px;
     border-radius:25px;
 }
+
+.Calculadura td button{
+    display:block;
+    width:70px;
+    height: 70px;
+    front-sizq:25px;
+
+}
