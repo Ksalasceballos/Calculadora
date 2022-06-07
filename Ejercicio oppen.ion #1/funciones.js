@@ -1,3 +1,3 @@
-funcion init(){
+function init(){
   alert("Hola mundo");
 }
