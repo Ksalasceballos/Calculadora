@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen bg-green-400 flex jusify-center py-16">
+  <div class="p-3" style="max.width: 400px; margin: 50px auto; backgraound: #234">
     <div class="w-1/3">
       <div class="p-4 bg-white">
         <p class="font-semibold text-gray-700 h-6"></p>
