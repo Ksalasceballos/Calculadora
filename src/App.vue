@@ -5,7 +5,7 @@
 </emplate>
 
 <script>
-import Calculadora from './Ejercicio oppen.ion #1/Calculadora.vue'
+import Calculadora from './components/Calculadora.vue'
 
 export default {
   name: 'App',
